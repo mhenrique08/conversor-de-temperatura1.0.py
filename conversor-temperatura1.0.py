@@ -30,6 +30,9 @@ while True:
   num_celsius = float(input("Insira a temperatura em C°:  "))
   resultado = (num_celsius+273.15)
   print (" - O resultado é:", resultado, "K")
+  if resultado == 0:
+   print (" - O resultado é:", resultado, "K")
+   print ("Parabéns! Você encontrou o zero absoluto!")
 
  elif conversao == '3':
   num_fahrenheit = float(input("Insira a temperatura em °F:  "))
