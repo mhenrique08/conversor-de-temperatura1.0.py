@@ -26,7 +26,7 @@
 2) Navegue até a pasta do projeto - 
   cd conversor-de-temperatura1.0.py
 3) Execute o arquivo com Python - 
-  python conversor-de-temperatura1.0.py
+  python conversor-de-temperatura.py
 
 📌Como utilizar:
 
