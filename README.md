@@ -22,7 +22,7 @@
 📁 Como executar:
 
 1) Clone este repositório - 
-  git clone https://github.com/seu-usuario/conversor-de-temperatura1.0.py.git
+  git clone https://github.com/mhenrique08/conversor-de-temperatura1.0.py.git
 2) Navegue até a pasta do projeto - 
   cd conversor-de-temperatura1.0.py
 3) Execute o arquivo com Python - 
